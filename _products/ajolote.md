@@ -17,5 +17,5 @@ sizes:
 styles:
   - name: Morado
     color: '#BD97B3'
-    image: /images/products/ajolote/morado.jpg
+    image: /images/products/ajolote/morado.png
 ---
