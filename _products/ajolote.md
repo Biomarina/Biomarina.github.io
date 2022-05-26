@@ -4,7 +4,7 @@ description_markdown: >-
   Es una bolsa inspirada en el animal endemico de México
 
 
-  Bolsa chica medina y grande, de diversos colores
+  Bolsa de tela tergal y mezclilla,con azas largas o cortas de a cuerto a tu preferencia
 garment_type:
 price: '200.00'
 sku: ajolote

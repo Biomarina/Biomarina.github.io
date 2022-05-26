@@ -4,7 +4,7 @@ description_markdown: >-
   Es una bolsa inspirada en un cazador muy veloz e inteligente
 
 
-  Bolsa chica medina y grande, de diversos colores
+  Bolsa de tela mezclilla, con asas cortas
 garment_type:
 price: '150.00'
 sku: orca

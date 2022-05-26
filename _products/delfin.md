@@ -4,7 +4,7 @@ description_markdown: >-
   Es una bolsa inspirada en un mamifero inteligente
 
 
-  Bolsa chica medina y grande, de diversos colores
+  Bolsa de tela tergal y mezclilla con asas largas o cortas de acuerdo a tu preferencia
 garment_type:
 price: '180.00'
 sku: delfin
