@@ -18,4 +18,10 @@ styles:
   - name: Morado
     color: '#BD97B3'
     image: /images/products/ajolote/morado.png
+  - name: Verde
+    color: '#8AC69A'
+    image: /images/products/ajolote/verde.png
+  - name: Azul
+    color: '#505AA2'
+    image: /images/products/ajolote/azul.png
 ---
